@@ -1,0 +1,18 @@
+Java program rules:
+Even capital P and small p can determine different things.(case-sensitive)
+
+Defining a class:
+"public" is an access modifier
+
+Static
+
+void which says it will not return any thing
+
+There are 8 primitive data types in java.
+bool
+byte
+char
+short
+int
+long 
+float
